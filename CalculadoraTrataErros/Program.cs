@@ -10,7 +10,7 @@ namespace CalculadoraTrataErros {
             // Se o valor padrão não é um numero em uma operação, como uma divisão, resultará em erro.
             double result = double.NaN;
 
-            // Usa a declaração switch para fazer a matemática.
+            // Usa a declaração switch para fazer a matemática
             switch (op) {
                 case "a":
                     result = num1 + num2;
