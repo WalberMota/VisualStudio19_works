@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32929.386
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstrutSeq01", "EstrutSeq01\EstrutSeq01.csproj", "{99FDF058-3383-4C4F-A75C-CE36094CC3D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstrutSeq01", "EstrutSeq01.csproj", "{99FDF058-3383-4C4F-A75C-CE36094CC3D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {25639232-BFB7-4857-8F4B-06EEE3C27E71}
+		SolutionGuid = {148D1831-A9A3-4188-BF9F-70BC8C22CDBB}
 	EndGlobalSection
 EndGlobal

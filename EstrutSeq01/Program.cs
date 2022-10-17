@@ -14,6 +14,7 @@ namespace EstrutSeq01 {
 
             soma = A + B;
 
+            Console.WriteLine("---------------------");
             Console.WriteLine("SOMA = " + soma);
             Console.ReadKey();
 
