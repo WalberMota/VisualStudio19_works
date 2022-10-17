@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CalculadoraTrataErros {
     class Calculadora {
         public static double DoOperation(double num1, double num2, string op) {
-            // Default value is "not-a-number" if an operation, such as division, could result in an error.
+            // Se o valor padrão não é um numero em uma operação, como uma divisão, resultará em erro.
             double result = double.NaN;
 
             // Usa a declaração switch para fazer a matemática.
