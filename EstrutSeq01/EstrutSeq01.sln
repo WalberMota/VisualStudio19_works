@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstrutSeq01", "EstrutSeq01\EstrutSeq01.csproj", "{99FDF058-3383-4C4F-A75C-CE36094CC3D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99FDF058-3383-4C4F-A75C-CE36094CC3D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FDF058-3383-4C4F-A75C-CE36094CC3D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99FDF058-3383-4C4F-A75C-CE36094CC3D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FDF058-3383-4C4F-A75C-CE36094CC3D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25639232-BFB7-4857-8F4B-06EEE3C27E71}
+	EndGlobalSection
+EndGlobal
