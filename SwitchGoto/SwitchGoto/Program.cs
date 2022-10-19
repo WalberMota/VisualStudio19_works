@@ -58,7 +58,7 @@ namespace SwitchGoto {
                 Console.WriteLine("Tempo de viagem de {0} é de {1} minutos de viagem.\n" , meio, tempo);
             }
             
-            Console.WriteLine("--------------------------------------");
+            Console.WriteLine("-------------------------------------");
             Console.Write("Quer escolher outro tranporte ? [s/n]   ");
             escolha = char.Parse(Console.ReadLine());
             if (escolha=='s' || escolha == 'S') {
