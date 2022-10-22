@@ -35,7 +35,7 @@ namespace CalculadoraTrataErros {
         }
     }
     class Program {
-        static void Main(string[] args) {
+        static void Main() {
             bool endApp = false;
             // Mostra o título do app de console.
             Console.WriteLine("    Calculadora no Console em C#\r");
@@ -45,7 +45,7 @@ namespace CalculadoraTrataErros {
                 // Cria as variáveis vazias.
                 string numInput1;// = "";
                 string numInput2;// = "";
-                double result = 0;
+                double result;
 
                 // Pede o primeiro numero ao usuario.
                 Console.Write("Digite um número, e tecle Enter: ");
