@@ -7,5 +7,5 @@ class Mensagem {
         Console.ReadKey();
         MessageBox.Show("Ai você se pergunta\nmas que merda é essa ?");
 
-    } //fechamento do Main
+    } //fechamento do Main.
 }//fechamento da class MensagemBox
