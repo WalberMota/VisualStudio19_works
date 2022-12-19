@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7C9C73B2-4975-4085-91CF-C527AC55F266}</ProjectGuid>
+    <ProjectGuid>{3BA035E7-C1A5-462C-8DF6-852919B44E88}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ReplaceWH</RootNamespace>
-    <AssemblyName>ReplaceWH</AssemblyName>
+    <RootNamespace>LerGravaArqtxt01</RootNamespace>
+    <AssemblyName>LerGravaArqtxt01</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -36,6 +36,9 @@
     <ApplicationIcon>Blackvariant-Button-Ui-System-Apps-Terminal.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="PresentationFramework">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
